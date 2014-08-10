@@ -1,0 +1,8 @@
+my_name = 'Stef Gibson'
+my_age = 23 # not a lie
+my height = 58 #inches
+my_weight = 170 #lbs
+my_teeth = 'white' 
+my_hair = 'blonde'
+
+print

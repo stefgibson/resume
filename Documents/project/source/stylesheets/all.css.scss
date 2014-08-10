@@ -1,0 +1,32 @@
+body {
+  font-family: 'Roboto', sans-serif;
+  min-width: 760px;
+}
+
+.container {
+  height: 1000px;
+  clear: both;
+}
+
+.lefty {
+float: left;
+width: 35%;
+height: 900px
+
+}
+
+
+.righty {
+  width: 57%;
+  float: right;
+  height: 900px;
+  margin-right: 50px;
+}
+
+.lefty p {
+  text-align: center;
+}
+h1 {
+  text-align: center;
+
+}
